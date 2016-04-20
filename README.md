@@ -1,4 +1,7 @@
 # MagicWand
-Some text effect with jQuery
 
-Demo: https://htmlpreview.github.io/?https://github.com/rendfall/MagicWand/blob/master/index.php
+Some text effect with jQuery.
+
+# Demo
+
+Demo is available [here](http://rendfall.github.io/MagicWand/).
